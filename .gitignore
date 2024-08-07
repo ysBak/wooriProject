@@ -36,3 +36,7 @@ out/
 ### VS Code ###
 .vscode/
 node_modules
+
+# React 관련
+src/main/woori/node_modules/
+src/main/woori/build/
